@@ -1,0 +1,27 @@
+{
+  "name": "random-str-jca-msg",
+  "version": "1.0.0",
+  "description": "Ramdom String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcavella/random-str-jca-msg.git"
+  },
+  "keywords": [],
+  "author": "Juan Carlos Avella Gutierrez <jcavella@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcavella/random-str-jca-msg/issues"
+  },
+  "homepage": "https://github.com/jcavella/random-str-jca-msg#readme",
+  "bin": {
+    "random-str-jca-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
